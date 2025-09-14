@@ -210,7 +210,7 @@ We welcome contributions to improve the Library Management System! Here's how yo
 2. Add deploy script to package.json: `"deploy": "gh-pages -d dist"`
 3. Build and deploy: `npm run build && npm run deploy`
 
-
+#SCREENSHORTS
 <img width="1764" height="909" alt="Screenshot 2025-09-14 174152" src="https://github.com/user-attachments/assets/ccf6e0fd-d90c-4e54-8326-be0ea37a946d" />
 <img width="1823" height="911" alt="Screenshot 2025-09-14 174219" src="https://github.com/user-attachments/assets/ff43b26f-3ed3-473e-a3a7-011ded94ced4" />
 <img width="1821" height="907" alt="Screenshot 2025-09-14 174307" src="https://github.com/user-attachments/assets/de3aa242-8630-408e-9ba0-f269ec0ce816" />
